@@ -1,0 +1,75 @@
+.gitignore
+  s_090e595bff8e94::t_c9ce0affa76508 1-8
+.prettierrc
+  s_090e595bff8e94::t_6a2025526b70c4 1-4
+CHANGELOG.md
+  s_090e595bff8e94::t_9974d64cb25589 1-3
+LICENSE
+  s_82f1560ed1eab1::t_71a46036017b1f 1-21
+README.md
+  s_82f1560ed1eab1::t_15878b6e8a1417 1-18
+eslint.config.js
+  s_090e595bff8e94::t_97ba9abb1e8cb4 1-4
+package-lock.json
+  s_82f1560ed1eab1::t_66b118af93990f 1-3720
+package.json
+  s_82f1560ed1eab1::t_5a99650b9f4853 1-64
+src/components/website-analytics.tsx
+  s_503a074ff52fa7::t_0d0c4fb6b0e5d9 1-151
+src/lib/api.ts
+  s_82f1560ed1eab1::t_d9808a689110e9 1-7
+src/lib/client.ts
+  s_82f1560ed1eab1::t_b70af7d3ff10e6 1-46
+src/lib/feedback.ts
+  s_82f1560ed1eab1::t_2a9f474bf7974f 1-42
+src/lib/format.ts
+  s_090e595bff8e94::t_651ba92df4ed63 1-112
+src/lib/http.ts
+  s_503a074ff52fa7::t_d36b6b2ab4585d 1-84
+src/lib/report.ts
+  s_82f1560ed1eab1::t_34264b673045dc 1-49
+src/lib/types.ts
+  s_82f1560ed1eab1::t_718fe2bac99e02 1-70
+src/lib/use-websites.ts
+  s_82f1560ed1eab1::t_6004a9e0ab0d82 1-15
+src/live-visitors.tsx
+  s_82f1560ed1eab1::t_7563ec79de0b7c 1-49
+src/search-issues.tsx
+  s_503a074ff52fa7::t_68aaef1e41f6f7 1-186
+src/view-analytics.tsx
+  s_503a074ff52fa7::t_9f805303548ae2 1-61
+tsconfig.json
+  s_090e595bff8e94::t_98d43950720e88 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "02603dedc956f606119560e10bb066c26543cb95",
+  "prompts": {},
+  "sessions": {
+    "s_090e595bff8e94": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "054a1bee-e925-48f1-aabb-c88c834a8d54",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_503a074ff52fa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ccc558f7-ac40-497a-a316-9abb6e2d85f8",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    },
+    "s_82f1560ed1eab1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bfa6ead2-d55a-4d15-8158-92f95260dbf3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Taras Shynkarenko <taras.shinkarenko@gmail.com>"
+    }
+  }
+}
